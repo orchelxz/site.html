@@ -1,25 +1,34 @@
 <!DOCTYPE html>
 <html lang="pt-br">
    <head>
-        <meta cha<title>NEXT.ESTETICAS</title>rset="UTF-8">
+        <meta charset="UTF-8">
         <title>NEXT.ESTETICAS</title>
    </head>
+   
    <body>
-       <h1>SOBRE A NEXT.ESTETICA</h1>
+       <h1 style="text-align:  center     ">SOBRE A NEXT.ESTÉTICA</h1>
 
-       <p>Nosso salao se encontra no centro da cidade na avenida getulio vargas numero 2701, trazendo o melhor tratamento de esteticas para homens e mulheres,
-dispostos a mudar o visual dos nossos clientes, considerando o melhor salao da cidade, temos todos os tipos de tratamentos, com valores acessiveis.</p>
+       <p>Nosso salão se encontra no centro da cidade na avenida Getúlio Vargas número 2701, trazendo o melhor tratamento de estéticas para homens e mulheres,
+dispostos a mudar o visual dos nossos clientes, considerando o melhor salão da cidade, temos todos os tipos de tratamentos, com valores acessíveis.</p>
 
-      <p>Sessao de massagem:R$150,00
+      <p>Sessão de massagem: R$150,00
+      
       manicure e pedicure: R$25,00 cada
+      
       unha em gel ou fibra: R$170,00
-      manutencao das unhas:R$80,00
-      designer e sombrancelha:R$180,00
-      depilaçao completa: R$300,00
-      extensao de cilios:R$130,00
-      limpeza de pele:R$250,00
-      cortes de  cabelo:R$45,00.</p>
+      
+      manutenção das unhas: R$80,00
+      
+      designer e sobrancelha: R$180,00
+      
+      depilação completa: R$300,00
+      
+      extensão de cílios: R$130,00
+      
+      limpeza de pele: R$250,00
+      
+      cortes de cabelo: R$45,00.</p>
 
-      <p><em>Nossa missão é: <strong>"Aumentar a auto-estima dos nossos clientes e satisfazer com nossos serviços"</strong>.</em></p>
+      <p style="font-size: 20px"><em>Nossa missão é: <strong>"Aumentar a auto-estima dos nossos clientes e satisfazer com nossos serviços"</strong>.</em></p>
    </body>
 </html>    
